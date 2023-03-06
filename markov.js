@@ -55,3 +55,5 @@ class MarkovMachine {
 		return outputWords.join(' ');
 	}
 }
+
+module.exports = { MarkovMachine };
